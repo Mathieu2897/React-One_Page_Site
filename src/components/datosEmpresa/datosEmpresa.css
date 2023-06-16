@@ -1,0 +1,58 @@
+.datos-empresa_section{
+    display: flex;
+    margin: 0;
+}
+
+.datos-empresa_content{
+    flex: 1;
+    margin: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-right: 5rem;
+}
+.datos-empresa_content h1{
+    font-family: Manrope;
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;
+    letter-spacing: -0.04rem;
+    animation: hueRotate 5s alternate infinite;
+
+}
+
+@keyframes hueRotate{
+    0%{
+        filter: hue-rotate(279deg);
+    }
+    50%{
+        filter: hue-rotate(197deg);
+    }
+    100%{
+        filter: hue-rotate(12deg);
+    }
+}
+
+.datos-empresa_content p{
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    color: #81afdd;
+    margin-top: 1.5rem;
+    text-align: justify;
+}
+.datos-empresa-image{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.datos-empresa-image img{
+    width: 100%;
+    height: 100%;   
+}
+
