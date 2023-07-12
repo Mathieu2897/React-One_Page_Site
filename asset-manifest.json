@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/React-One_Page_Site/static/css/main.9e6382ee.css",
+    "main.js": "/React-One_Page_Site/static/js/main.8627ee8c.js",
+    "static/media/testimony-3.jpg": "/React-One_Page_Site/static/media/testimony-3.6a6df5fc12fcb53e01b4.jpg",
+    "static/media/datosEmpresa-bg-removebg-preview.png": "/React-One_Page_Site/static/media/datosEmpresa-bg-removebg-preview.87db183339d614b68b38.png",
+    "static/media/testimony-2.jpg": "/React-One_Page_Site/static/media/testimony-2.26c3c151db8eed4e7ee3.jpg",
+    "static/media/Fox-Tech-Logo.png": "/React-One_Page_Site/static/media/Fox-Tech-Logo.bc27c50643a80bcd41fc.png",
+    "static/media/neon-controller-removebg-preview.png": "/React-One_Page_Site/static/media/neon-controller-removebg-preview.fb6816aa9422cef298e7.png",
+    "static/media/ubisoft-logo-removebg-preview (1).png": "/React-One_Page_Site/static/media/ubisoft-logo-removebg-preview (1).65110ae58efe69ecf229.png",
+    "static/media/c-sharp-removebg-preview .png": "/React-One_Page_Site/static/media/c-sharp-removebg-preview .8adc133a66149a0feb3f.png",
+    "static/media/tnt.png": "/React-One_Page_Site/static/media/tnt.2ff40ac24b6bc2dc30ed.png",
+    "static/media/nintendo_logo-removebg-preview.png": "/React-One_Page_Site/static/media/nintendo_logo-removebg-preview.05664bad37a30ae4094d.png",
+    "static/media/java-logo-removebg.png": "/React-One_Page_Site/static/media/java-logo-removebg.148352a8661c4d34ca49.png",
+    "static/media/panda3d.png": "/React-One_Page_Site/static/media/panda3d.e2ae2fe43d8bebbed5c4.png",
+    "static/media/ps4-logo-removebg-preview.png": "/React-One_Page_Site/static/media/ps4-logo-removebg-preview.ddd400bb6ff5d622ee6a.png",
+    "static/media/ea-sport-logo-removebg-preview.png": "/React-One_Page_Site/static/media/ea-sport-logo-removebg-preview.0d7b23dc055c0f49f57b.png",
+    "static/media/rockstar.png": "/React-One_Page_Site/static/media/rockstar.2bf35a7d7307431ddad4.png",
+    "static/media/Activision_Logo-removebg-preview.png": "/React-One_Page_Site/static/media/Activision_Logo-removebg-preview.30871d2e1e7a2bbff999.png",
+    "static/media/unity-logo.png": "/React-One_Page_Site/static/media/unity-logo.af66617424ab423fa8a5.png",
+    "static/media/testimony-4.jpg": "/React-One_Page_Site/static/media/testimony-4.f77511f3fc6c4421b6de.jpg",
+    "static/media/C++_logo-removebg.png": "/React-One_Page_Site/static/media/C++_logo-removebg.b013d5ffd628b21b6075.png",
+    "static/media/python-logo-removebg-preview.png": "/React-One_Page_Site/static/media/python-logo-removebg-preview.777b0d3b3a384647649b.png",
+    "static/media/gamemaker.png": "/React-One_Page_Site/static/media/gamemaker.3d296b26a72c68a98df4.png",
+    "static/media/revicons.eot": "/React-One_Page_Site/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/React-One_Page_Site/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/javascript-logo.png": "/React-One_Page_Site/static/media/javascript-logo.cd1b4264d70ade3086d2.png",
+    "static/media/revicons.woff": "/React-One_Page_Site/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/React-One_Page_Site/index.html",
+    "main.9e6382ee.css.map": "/React-One_Page_Site/static/css/main.9e6382ee.css.map",
+    "main.8627ee8c.js.map": "/React-One_Page_Site/static/js/main.8627ee8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e6382ee.css",
+    "static/js/main.8627ee8c.js"
+  ]
+}
